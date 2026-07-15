@@ -1,0 +1,14 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+*.tmp
+
+# Obsidian workspace/cache files
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/app.json
+.obsidian/cache/
+
+# Optional: if using non-public personal PDFs
+# Sources/*.pdf
