@@ -1,55 +1,67 @@
 # Doxology
 
 ## Definition
-Doxology is a formula of praise that, in Basil of Caesarea’s argument, carries doctrinal significance rather than serving as mere ornament. In the controversy surrounding On the Holy Spirit, disputed doxological wording became a major site where worship and theological confession met. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[5](https://docslib.org/doc/5614712/student-supplement-for-the-sbl-handbook-of-style-second-edition)
+Doxology is a formula of praise that, in Basil of Caesarea's argument, carries doctrinal significance rather than serving as mere ornament. In the controversy surrounding *On the Holy Spirit*, disputed doxological wording became the central site where worship and theological confession meet.
 
 ## Key Language / Terms
-- “with whom”
-- “through whom”
-- glory
-- together with
-- conglorification
+- ***syn*** / ***meta*** ("with"): the preposition Basil defends in his formula; implies coordinate standing with Father and Son
+- ***dia*** ("through"): what opponents prefer for the Spirit; implies instrumentality, not parity
+- ***en*** ("in"): assigned to the Spirit as sphere or mode in the opponents' scheme
+- **glory / glorification** (*doxa* / *doxazein*): the act at the center of the controversy
+- **conglorification** (*syndoxazein*): glorifying together; what Basil defends and opponents deny
+- **unwritten tradition** (*agrapha*): Basil's basis for ecclesial customs that are not explicitly Scripture but have apostolic standing
 
-These terms matter because Basil’s opponents tried to use linguistic distinctions within praise formulas to imply differences of nature or rank. Basil resists that conclusion. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[1](https://l3lab.net/posts/tutorial-zotero-obsidian-annotations/2024-08-12-academic-workflow-obsidian-zotero/)[3](https://ocw.danielinstitute.net/media/uploads/docs/doc_20240617092008_023acdbdb3.pdf)
+## The Doxological Dispute — Precise Form
+Basil's opponents objected to his formula: "glory to the Father *with* the Son *together with* the Holy Spirit" (*syn*). They preferred the traditional: "glory to the Father *through* the Son *in* the Holy Spirit" (*dia* / *en*). Their claim: the *syn* formula elevates the Spirit to a rank Scripture does not warrant and that tradition does not require.
+
+Basil's response has three main moves:
+
+1. **The preposition method is self-defeating**: Scripture does not distribute prepositions with the rigid consistency the opponents require. The same prepositions appear applied to different divine persons in ways that collapse the hierarchy they need.
+2. **Doxology is confessional, not ornamental**: changing doxological wording is not a stylistic adjustment — it expresses and shapes the Church's doctrinal confession.
+3. **The formula has apostolic warrant** (*agrapha*): ecclesial customs not found word-for-word in Scripture can still carry theological weight if they derive from apostolic practice.
+
+## The Incoherence Argument
+One of Basil's strongest moves: the opponents cannot coherently *worship through* the Spirit while *refusing to glorify* the Spirit. If the Spirit is the medium through whom worship ascends to God, then the Spirit must be the kind of being through whom divine worship can properly flow — which implies divinity. To worship through a mere creature would be to direct devotion through an entity that stands outside God, which Basil treats as incoherent with the Church's actual practice.
 
 ## Evidence
 
 ### Biblical
-- [[Matthew 28:19]] — triadic naming in baptism helps show that the Church’s confessional and liturgical life already speaks in a way that includes Father, Son, and Holy Spirit together. [3](https://ocw.danielinstitute.net/media/uploads/docs/doc_20240617092008_023acdbdb3.pdf)[9](https://ps.edu/wp-content/uploads/2025/08/2025-2026-ThM-Thesis-Guidebook.pdf)
-- [[Romans 8]] — the Spirit’s role in life, adoption, and salvation helps explain why glorification of the Spirit cannot be treated as optional or secondary. [4](https://www.vanguard.edu/uploaded/content-migrated-pages/SBLHS_SS92804_Revised_ed.pdf)[8](https://www.academia.edu/150251183/Student_Supplement_for_the_SBL_Handbook_of_Style)[9](https://ps.edu/wp-content/uploads/2025/08/2025-2026-ThM-Thesis-Guidebook.pdf)
+- [[Matthew 28-19]] — triadic naming in baptism places the Spirit within the Church's central confessional rite; the Spirit is not named as a lesser or subordinate party
+- [[Romans 8]] — the Spirit's role in adoption and intercession supports the claim that glorification of the Spirit is integral to salvation, not secondary
 
 ### Patristic
-- [[Patristics/Basil - On the Holy Spirit]] — Basil’s defense of disputed praise formulas shows that worship language is not neutral in the Trinitarian controversy. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[4](https://www.vanguard.edu/uploaded/content-migrated-pages/SBLHS_SS92804_Revised_ed.pdf)[5](https://docslib.org/doc/5614712/student-supplement-for-the-sbl-handbook-of-style-second-edition)
+- [[Patristics/Basil - On the Holy Spirit]] — Phases 1, 4, and 5; the doxological dispute is both the occasion and the conclusion of the treatise
 
 ## Interpretive Options
-- Option A: doxology is merely devotional language and should not bear doctrinal weight.
-- Option B: doxology is confessional language and therefore helps disclose what the Church believes.
-- Option C: doxology confirms doctrine already known from Scripture, even if it is not independent proof in the strongest sense.
+- **Option A**: doxology is merely devotional language and should not bear doctrinal weight.
+- **Option B**: doxology is confessional language and therefore helps disclose and protect what the Church believes — Basil's stated position.
+- **Option C**: doxology *confirms* doctrine already established by Scripture and operations, but does not *independently prove* it.
+
+**The difference between B and C is the dissertation-level question. Do not resolve prematurely.**
 
 ## Opposing Views
-A strong opposing view says that praise formulas are honorific and rhetorical only. On this reading, one may preserve distinct wording for Father, Son, and Spirit without granting equal dignity or ontological parity. Basil’s opponents pressed exactly this sort of logic through strict attention to prepositions. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[1](https://l3lab.net/posts/tutorial-zotero-obsidian-annotations/2024-08-12-academic-workflow-obsidian-zotero/)[5](https://docslib.org/doc/5614712/student-supplement-for-the-sbl-handbook-of-style-second-edition)
+The opponents hold that praise formulas are honorific and rhetorical only. Distinct wording for Father, Son, and Spirit reflects a proper ontological ordering, not a denial of the Spirit's significance. Glorifying the Spirit "with" (*syn*) Father and Son claims what Scripture does not sanction. The traditional formula should be preserved as non-innovative and scripturally grounded.
 
-## My Judgment
-In Basil, doxology functions as lived confessional theology. He does not oppose worship to Scripture; instead, he treats worship as materially involved in expressing and safeguarding what the Church confesses about the Spirit. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[5](https://docslib.org/doc/5614712/student-supplement-for-the-sbl-handbook-of-style-second-edition)
-
-## Grounds
-- The treatise arises directly from controversy over public worship language. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[5](https://docslib.org/doc/5614712/student-supplement-for-the-sbl-handbook-of-style-second-edition)
-- Basil explicitly treats small theological expressions as worthy of detailed investigation. [1](https://l3lab.net/posts/tutorial-zotero-obsidian-annotations/2024-08-12-academic-workflow-obsidian-zotero/)[3](https://ocw.danielinstitute.net/media/uploads/docs/doc_20240617092008_023acdbdb3.pdf)
-- He argues that Scripture does not support the opponent’s language theory and that ecclesial practice properly uses formulas his opponents reject. [2](https://mcmasterdivinity.ca/mdcpress/journals/patristictheology/)[1](https://l3lab.net/posts/tutorial-zotero-obsidian-annotations/2024-08-12-academic-workflow-obsidian-zotero/)[3](https://ocw.danielinstitute.net/media/uploads/docs/doc_20240617092008_023acdbdb3.pdf)
-
-## Implications
-- doctrine and worship should not be separated too sharply
-- liturgical language can have evidential force within doctrinal controversy
-- pneumatology is not merely abstract metaphysics; it shapes ecclesial confession
+This is a principled exegetical position. It should not be dismissed as purely political or uninformed.
 
 ## Tensions / Open Questions
-- How much “proof value” does Basil actually assign to worship language?
-- Is doxology in Basil better understood as evidence, confirmation, or manifestation of doctrine?
+- **Central unresolved question**: Is doxology in Basil *independent evidence* for the Spirit's divinity, or *confessional confirmation* of a truth established primarily by Scripture and operations?
+- Basil does not call the Spirit *homoousios*: does this limit the doctrinal weight he can place on doxological practice?
+- If *agrapha* can authorize doxological formulas, what controls or limits that appeal?
+- Can worship mislead? Basil does not address this possibility.
+
+## Implications
+- doctrine and worship should not be separated sharply in Basil's framework
+- liturgical language can have evidential force within doctrinal controversy
+- pneumatology shapes actual ecclesial life, not only abstract metaphysics
 
 ## Related
 - [[Patristics/Basil - On the Holy Spirit]]
-- [[Matthew 28:19]]
+- [[Worship and Doctrine]]
+- [[Matthew 28-19]]
 - [[Arguments/Worship as doctrinal evidence in Basil]]
+- [[Questions/Does worship imply divinity]]
+- [[Questions/How does Basil use worship as theological evidence]]
 
 ## Status
 processed

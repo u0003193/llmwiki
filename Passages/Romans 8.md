@@ -58,6 +58,9 @@ Romans 8 shows that the Spirit’s role in life and adoption makes a diminished 
 ## Related
 - [[Patristics/Basil - On the Holy Spirit]]
 - [[Doxology]]
+- [[Worship and Doctrine]]
+- [[Arguments/Worship as doctrinal evidence in Basil]]
+- [[Questions/How does Basil use worship as theological evidence]]
 - [[Arguments/Worship as doctrinal evidence in Basil]]
 
 ## Status

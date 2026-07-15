@@ -27,7 +27,7 @@ If worship is doctrinally significant, the Spirit cannot be treated as a lower b
 strong implicit
 
 ## Related
-- [[Basil - On the Holy Spirit]]
+- [[Patristics/Basil - On the Holy Spirit]]
 - [[Doxology]]
-- [[Worship as doctrinal evidence in Basil]]
-- [[Basil MOC]]
+- [[Arguments/Worship as doctrinal evidence in Basil]]
+- [[MOCs/Basil MOC]]
