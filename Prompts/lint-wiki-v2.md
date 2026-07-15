@@ -54,6 +54,24 @@ Return:
 - section theses without evidence base
 - syntheses that suppress disagreement
 
+### F. Dissertation Readiness Problems
+
+Check:
+
+- every chapter note traces to a dissertation question
+- every synthesis traces to at least one argument
+- every argument traces to at least one source
+- every tested/vetted note belongs to a MOC
+
+### G. Naming Problems
+
+Flag:
+
+- underscores mixed with spaces
+- duplicate filenames
+- duplicate aliases
+- inconsistent passage naming
+
 ---
 
 ## SEVERITY LEVELS
